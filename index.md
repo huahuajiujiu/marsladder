@@ -4,8 +4,8 @@ We’re a software consultancy solving complex problems with technology. We conn
 
 ### Core team
 
-1. Cao Yupeng
-2. Yu Nan
-3. He Liang
-4. Song Yechun
-5. Liu Benqing
+1. Cao, Yupeng
+2. Yu, Nan
+3. He, Liang
+4. Song, Yechun
+5. Liu, Benqing
