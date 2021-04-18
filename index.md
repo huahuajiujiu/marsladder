@@ -4,7 +4,7 @@ We’re a software consultancy solving complex problems with technology. We conn
 
 ### Core team mmembers
 
-1. Full name: Cao, Yupeng | Email :lezi.cc@gmail.com | Primary phone number: +86 18966760087
+1. Full name: Cao, Yupeng  Email :lezi.cc@gmail.com  Primary phone number: +86 18966760087
 3. Yu, Nan
 4. He, Liang
 5. Song, Yechun
